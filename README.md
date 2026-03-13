@@ -11,11 +11,9 @@
 
 </div>
 
----
-
 ## What's in here?
 
-Every single problem from the **NeetCode 150** list — solved in Python, written the way you'd actually do it in a real interview.
+Every single problem from the NeetCode 150 list — solved in Python, written the way you'd actually do it in a real interview.
 
 Each solution file follows this exact structure:
 
@@ -28,42 +26,36 @@ Each solution file follows this exact structure:
 
 No shortcuts. No magic one-liners without explanation. Just clean, readable, interview-ready code.
 
----
-
 ## Progress — 150 / 150 Complete
 
-| # | Category | Problems | Status |
-|---|----------|:--------:|:------:|
-| 01 | [Arrays & Hashing](./01_Arrays_and_Hashing/) | 9 | ✅ |
-| 02 | [Two Pointers](./02_Two_Pointers/) | 5 | ✅ |
-| 03 | [Sliding Window](./03_Sliding_Window/) | 6 | ✅ |
-| 04 | [Stack](./04_Stack/) | 7 | ✅ |
-| 05 | [Binary Search](./05_Binary_Search/) | 7 | ✅ |
-| 06 | [Linked List](./06_Linked_List/) | 11 | ✅ |
-| 07 | [Trees](./07_Trees/) | 15 | ✅ |
-| 08 | [Tries](./08_Tries/) | 3 | ✅ |
-| 09 | [Heap / Priority Queue](./09_Heap_Priority_Queue/) | 7 | ✅ |
-| 10 | [Backtracking](./10_Backtracking/) | 9 | ✅ |
-| 11 | [Graphs](./11_Graphs/) | 13 | ✅ |
-| 12 | [Advanced Graphs](./12_Advanced_Graphs/) | 6 | ✅ |
-| 13 | [1D Dynamic Programming](./13_1D_Dynamic_Programming/) | 12 | ✅ |
-| 14 | [2D Dynamic Programming](./14_2D_Dynamic_Programming/) | 11 | ✅ |
-| 15 | [Greedy](./15_Greedy/) | 8 | ✅ |
-| 16 | [Intervals](./16_Intervals/) | 6 | ✅ |
-| 17 | [Math & Geometry](./17_Math_and_Geometry/) | 8 | ✅ |
-| 18 | [Bit Manipulation](./18_Bit_Manipulation/) | 7 | ✅ |
-
----
+| # | Category | Problems |
+|---|----------|:--------:|
+| 01 | [Arrays & Hashing](./01_Arrays_and_Hashing/) | 9 |
+| 02 | [Two Pointers](./02_Two_Pointers/) | 5 |
+| 03 | [Sliding Window](./03_Sliding_Window/) | 6 |
+| 04 | [Stack](./04_Stack/) | 7 |
+| 05 | [Binary Search](./05_Binary_Search/) | 7 |
+| 06 | [Linked List](./06_Linked_List/) | 11 |
+| 07 | [Trees](./07_Trees/) | 15 |
+| 08 | [Tries](./08_Tries/) | 3 |
+| 09 | [Heap / Priority Queue](./09_Heap_Priority_Queue/) | 7 |
+| 10 | [Backtracking](./10_Backtracking/) | 9 |
+| 11 | [Graphs](./11_Graphs/) | 13 |
+| 12 | [Advanced Graphs](./12_Advanced_Graphs/) | 6 |
+| 13 | [1D Dynamic Programming](./13_1D_Dynamic_Programming/) | 12 |
+| 14 | [2D Dynamic Programming](./14_2D_Dynamic_Programming/) | 11 |
+| 15 | [Greedy](./15_Greedy/) | 8 |
+| 16 | [Intervals](./16_Intervals/) | 6 |
+| 17 | [Math & Geometry](./17_Math_and_Geometry/) | 8 |
+| 18 | [Bit Manipulation](./18_Bit_Manipulation/) | 7 |
 
 ## Highlights
 
-- **150 problems** across 18 core DSA categories
-- Every solution includes **time & space complexity** analysis
-- Covers **Easy → Hard** — from Two Sum to Regular Expression Matching
-- Patterns like **Union-Find, Dijkstra, Trie, Segment Trees, Monotonic Stack** — all here
-- Written to be **read and understood**, not just copy-pasted
-
----
+- 150 problems across 18 core DSA categories
+- Every solution includes time and space complexity analysis
+- Covers Easy through Hard — from Two Sum to Regular Expression Matching
+- Patterns like Union-Find, Dijkstra, Trie, Segment Trees, Monotonic Stack — all covered
+- Written to be read and understood, not just copy-pasted
 
 ## How to use this repo
 
@@ -76,8 +68,6 @@ python3 01_Arrays_and_Hashing/01_contains_duplicate.py
 ```
 
 Each file runs standalone with its own test cases at the bottom.
-
----
 
 ## Problem List
 
@@ -338,8 +328,6 @@ Each file runs standalone with its own test cases at the bottom.
 - Reverse Integer
 
 </details>
-
----
 
 <div align="center">
 
